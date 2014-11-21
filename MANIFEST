@@ -2,3 +2,4 @@ MANIFEST
 Makefile.PL
 README
 lib/Acme/Pony.pm
+MANIFEST.SKIP
